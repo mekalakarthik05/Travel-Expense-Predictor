@@ -187,7 +187,6 @@ Travel-Expense-Predictor/
 │   ├── images/
 │   └── icons/
 │
-├── screenshots/
 │
 └── README.md
 ```
@@ -243,33 +242,6 @@ index.html
 
 in your browser.
 
----
-
-# 📸 Screenshots
-
-## Home Page
-
-```md
-![Home Page](screenshots/home.png)
-```
-
-## Expense Prediction
-
-```md
-![Expense Prediction](screenshots/predictor.png)
-```
-
-## Travel Services
-
-```md
-![Travel Services](screenshots/services.png)
-```
-
-## Mobile View
-
-```md
-![Mobile View](screenshots/mobile.png)
-```
 
 ---
 
